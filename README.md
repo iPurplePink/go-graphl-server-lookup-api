@@ -127,3 +127,9 @@ $ go build
 ```
 
 2. Execute the generate file by specifying the name e.g. `./commons-lookups-api`
+
+### GraphQL playground
+
+```
+http://localhost:4030/
+```
